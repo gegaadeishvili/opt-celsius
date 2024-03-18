@@ -1,0 +1,19 @@
+body {
+  width: 375px;
+  height: 926px;
+  background: var(--White, #fff);
+}
+.top {
+  display: flex;
+}
+.top > img {
+  width: 66.661px;
+  height: 11.336px;
+}
+.top > h2 {
+  width: 28.426px;
+  height: 11.089px;
+}
+.bottom {
+  display: flex;
+}
