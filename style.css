@@ -1061,15 +1061,9 @@ height: 320px;
   display: flex;
   margin-left: 300px;
 }
-
-@media screen and (max-width: 600px) {
-  header {
-    width: 250px;
-    height: 70px;
-    display: flex;
-    flex-direction: column;
-  }
-  .mtavari {
-    background-color: aqua;
-  }
+.menuImg{
+  display: none;
+}
+.userImg{
+  display: none;
 }

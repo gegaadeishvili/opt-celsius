@@ -1,0 +1,41 @@
+@media screen and (max-width: 500px) {
+  .info {
+    display: none;
+  }
+  .contactHead {
+    display: none;
+  }
+  .imgContainers {
+    display: none;
+  }
+  .enter {
+    display: none;
+  }
+  .busk {
+    display: none;
+  }
+  .menuImg {
+    display: block;
+  }
+  .userImg {
+    display: block;
+  }
+  header {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  .topdv {
+    display: flex;
+    width: 375px;
+    height: auto;
+    left: 50%;
+    right: 50%;
+    gap: 90px;
+    position: absolute;
+    justify-content: center; 
+  }
+  .vector {
+    display: none;
+  }
+}
